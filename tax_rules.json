@@ -1,0 +1,7 @@
+{
+  "vat": {
+    "STANDARD": 0.255,
+    "REDUCED": 0.14,
+    "ZERO": 0.0
+  }
+}

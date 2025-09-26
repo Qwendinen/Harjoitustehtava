@@ -1,0 +1,4 @@
+sku,name,unit_price,vat_code
+P-100,Widget,12.50,STANDARD
+P-200,Gadget,8.00,REDUCED
+P-300,Service Plan,5.00,ZERO
